@@ -22,4 +22,9 @@ public class Test {
 	{
 		System.out.println("This is m3 method");
 	}
+
+	public void m4()
+	{
+             Sysetm.out.println("This is m4 method");
+	}
 }
