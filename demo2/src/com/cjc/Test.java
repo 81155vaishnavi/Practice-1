@@ -25,6 +25,6 @@ public class Test {
 
 	public void m4()
 	{
-             Sysetm.out.println("This is m4 method");
+             System.out.println("This is m4 method");
 	}
 }
